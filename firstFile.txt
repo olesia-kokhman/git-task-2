@@ -1,4 +1,4 @@
-line 1
+line 1 folder 1 change
 line 2 first change
 line 3 first change
 line 4
@@ -7,4 +7,4 @@ line 6
 line 7
 line 8 second change
 line 9 second change
-line 10
+line 10 folder 1 change
